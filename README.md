@@ -18,3 +18,6 @@ d.Add a proper README.md.
 e.Use .gitignore and tags.
 
 f.Document all tasks using markdown.
+
+
+task documention is in the task.md file 
